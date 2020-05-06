@@ -1,0 +1,40 @@
+# History Part 1
+
+cd
+cd ..
+cd /mnt/scratch-lustre/kmahtani
+mkdir A1
+cd A1
+git init
+git remote add origin "https://kuunal-mahtani@github.com/kuunal-mahtani/CTA200kmahtani.git"
+echo "# CTA200kmahtani" >> README.md
+echo "# CTA200kmahtani" >> LICENSE.txt
+gedit LICENSE.txt
+git add README.md LICENSE.txt
+git commit -m "added readme file"
+git push -u origin master
+cd ..
+pwd
+git clone https://github.com/CITA/CTA200H
+cd CTA200
+ls
+cd assignment1_2020
+ls
+pwd
+cd ..
+cd ..
+cd A1
+ls
+cp /mnt/scratch-lustre/kmahtani/CTA200H/assignment1_2020/average.c .
+cp /mnt/scratch-lustre/kmahtani/CTA200H/assignment1_2020/main.c .
+cp /mnt/scratch-lustre/kmahtani/CTA200H/assignment1_2020/average.h .
+echo "# line" >> Makefile
+gedit Makefile
+ls
+make
+./output
+git add average.c main.c average.h Makefile
+git status
+git commit -m "added Makefile and c and h files"
+git status
+git push
