@@ -1,0 +1,183 @@
+
+###everything until line 128 is garbage
+
+###everything until line 128 is garbage
+
+###everything until line 128 is garbage
+
+    1  logout
+    2  /cita/local/bin/passwd
+    3  Host cita_gw
+    4  logout
+    5  echo "# CTA200kmahtani" >> README.md
+    6  git init
+    7  pwd
+    8  git add README.md
+    9  git commit -m "first commit"
+   10  git remote add origin https://github.com/kuunal-mahtani/CTA200kmahtani.git
+   11  git push -u origin master
+   12  git remote add origin https://github.com/kuunal-mahtani/CTA200kmahtani.git
+   13  git push -u origin master
+   14  ls
+   15  cd Desktop
+   16  ls
+   17  ls -la
+   18  mkfile gitrep
+   19  mkdir gitrep
+   20  ls
+   21  cd gitrep
+   22  echo "# CTA200kmahtani" >> README.md
+   23  git init
+   24  ls -la
+   25  git remote add origin https://github.com/kuunal-mahtani/CTA200kmahtani.git
+   26  git commit -m "first commit"
+   27  git push -u origin master
+   28  cd ~
+   29  cd Desktop
+   30  ls
+   31  cd gitrep
+   32  ls -la
+   33  rm .git
+   34  unlink .git
+   35  git push
+   36  pwd
+   37  ls -la
+   38  git remote add origin https://github.com/kuunal-mahtani/CTA200kmahtani.git
+   39  git remote add origin https://github.com/kmahtani/CTA200kmahtani.git
+   40  git remote add origin https://github.com/kuunal-mahtani/CTA200kmahtani.git
+   41  cd ~
+   42  mkdir CTA200kmahtani
+   43  cd CTA200kmahtani/
+   44  pwd
+   45  git init
+   46  git remote add origin https://github.com/kuunal-mahtani/CTA200kmahtani.git
+   47  echo "# CTA200kmahtani" >> README.md
+   48  ls
+   49  ls -la
+   50  pwd
+   51  git push -u origin master
+   52  pwd
+   53  git init
+   54  git remote add origin https://github.com/kuunal-mahtani/CTA200kmahtani.git
+   55  git commit -m "first commit"
+   56  git push -u origin master
+   57  pwd
+   58  ls -la
+   59  echo "# CTA200kmahtani" >> LICENSE.txt
+   60  LICENSE
+   61  gedit LICENSE
+   62  git commit -m "Made Liscence text file"
+   63  git add -m "Made Liscence text file"
+   64  pwd
+   65  cd
+   66  pwd
+   67  cd ..
+   68  cd CTA
+   69  cd CTA200
+   70  ls
+   71  pwd
+   72  cd CTA200
+   73  cd cta200
+   74  ls
+   75  find -name '*average.c*'
+   76  find -name '*average*'
+   77  find -name '*auss*'
+   78  ls
+   79  find -name 'average'
+   80  find -name '*.c'
+   81  ls
+   82  find -name '*assignment1_2020*'
+   83  ls -la
+   84  ls
+   85  cd Documents
+   86  ls
+   87  ls -la
+   88  cd ..
+   89  cd Research
+   90  ls
+   91  ls -la
+   92  ls
+   93  cd 2020
+   94  cd ..
+   95  ls
+   96  cd repos
+   97  ls
+   98  ls -la
+   99  cd ..
+  100  find -iname *main*
+  101  pwd
+  102  find -iname *assignment1_2020*
+  103  find -iname *main*.c
+  104  pwd
+  105  cd ~
+  106  ls
+  107  cd CTA200kmahtani/
+  108  ls
+  109  git clone git@github.com:kuunal-mahtani/CTA200kmahtani.git
+  110  git clone https://github.com/kuunal-mahtani/CTA200kmahtani.git
+  111  git clone https://github.com/CITA/CTA200H/tree/master/assignment1_2020.git
+  112  git clone git@github.com:CITA/CTA200H/tree/master/assignment1_2020.git
+  113  pwd
+  114  cp -av git@github.com:CITA/CTA200H/tree/master/assignment1_2020.git /
+  115  cp -av git@github.com:CITA/CTA200H/tree/master/assignment1_2020.git /kmahtani/CTA200kmahtani
+  116  cd ..
+  117  cd
+  118  cd Desktop
+  119  cd Lec2
+  120  ls -la
+  121  git config --global kmahtani "kmahtani"
+  122  git init
+  123  echo "*.o" > .gitignore
+  124  git status
+  125  git add 1_pythonDatatypes.ipynb
+  126  git remote add "https://CITA@github.com/CITA/CTA200H/tree/master/lecture2.git"
+  127  git remote set-url origin "https://CITA@github.com/CITA/CTA200H/tree/master/lecture2.git"
+  128  history
+  129  history
+  130  history
+  131  cd ..
+  132  ls
+  133  pwd
+  134  cd
+  135  pwd
+  136  cd ..
+  137  cd /mnt/scratch-lustre/kmahtani
+  138  pwd
+  139  ls
+  140  cd A1
+  141  ls
+  142  echo "# History Part 1" >> FakeHistory.txt
+  143  gedit FakeHistory.txt
+  144  ls -la
+  145  gedit FakeHistory.txt
+  146  cd ..
+  147  cd CTA200
+  148  pwd
+  149  ls
+  150  cd CTA200H
+  151  cd assignment1_2020/
+  152  ls
+  153  pwd
+  154  cd ..
+  155  cd A1
+  156  ls
+  157  gedit FakeHistory.txt
+  158  git status
+  159  gedit FakeHistory.txt
+  160  gedit main.c
+  161  make
+  162  gedit main.c
+  163  make
+  164  ./output
+  165  git add main.c
+  166  git commit -m "edited main.c file"
+  167  git push
+  168  ls
+  169  git add FakeHistory.txt
+  170  git commit -m "TigerVNC crashed before I could make this file so I wrote a fake history for the first part of this assignment"
+  171  git push
+  172  pipe: history>history.txt
+  173  pipe history>history.txt
+  174  history
+  175  pipe: history > history2.txt
+  176  history > history2.txt
